@@ -1,4 +1,3 @@
-# Using-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident
 <!DOCTYPE html>
 <html lang="en">
 <head>
